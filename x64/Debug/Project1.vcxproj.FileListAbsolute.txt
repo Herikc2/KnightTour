@@ -1,0 +1,4 @@
+C:\Users\Carlos\Desktop\KnightTour\x64\Debug\KnightTour.exe
+C:\Users\Carlos\Desktop\KnightTour\x64\Debug\KnightTour.pdb
+C:\Users\Windows\Desktop\KnightTour\x64\Debug\KnightTour.exe
+C:\Users\Windows\Desktop\KnightTour\x64\Debug\KnightTour.pdb
